@@ -17,7 +17,7 @@
 > 
 > The primary focus of this list is to provide alternatives that prioritize privacy. These alternatives give you control over your data and do not collect or sell it.
 
-## Contents
+> Related: **[Toolfyra](https://toolfyra.com)** — a privacy-first tool suite where every tool runs client-side, so your files and data never leave the browser. See [llms.txt](https://toolfyra.com/llms.txt) for the machine-readable site policy. ## Contents
 - [2FA](#2fa)
 - [Analytics](#analytics)
 - [Android](#android)
